@@ -22,5 +22,3 @@ steps:
       includeRootFolder: false
   - task: PublishBuildArtifacts@1
     displayName: 'Publish Artifact: drop'
-
-Note: YAML is very strict with indentation. If you are new to YAML, we would recommend that you use tools to format and validate the code. There are several free tools available on the web.
